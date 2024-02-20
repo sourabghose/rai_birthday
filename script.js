@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 document.addEventListener('DOMContentLoaded', function () {
   // Set the date we're counting down to (replace with your desired date)
-  const countDownDate = new Date("Feb 20, 2024 21:39:00").getTime();
+  const countDownDate = new Date("Feb 21, 2024 00:00:00").getTime();
 
   // Update the countdown every 1 second
   const x = setInterval(function () {
