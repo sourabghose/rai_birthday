@@ -14,8 +14,7 @@ body{
 }
 .container1{
     perspective: 1000px;
-    display: block;
-
+    display: none;
 }
 .card{
     width: 280px;
